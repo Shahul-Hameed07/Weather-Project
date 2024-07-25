@@ -19,7 +19,7 @@ Technologies Used:
 * Open Weather Map API for retrieving weather data
 
 How to Use ?
-Step 1:Clone the repository: git clone https://github.com/your-username/weather-app.git
+Step 1:Clone the repository: git clone https://github.com/Shahul-Hameed07/Weather-Project.git
 
 Step 2:Open the project in your favorite code editor
 
